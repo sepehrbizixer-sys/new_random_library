@@ -11,7 +11,7 @@ class SS:
         return self.r.choice(x)
     
     def rptint(self, seq):
-        print(f'CPU : {seq}')
+        print(f'CPU : {seq}') #better to use for printing random items using this library
     
 
 
